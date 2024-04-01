@@ -63,6 +63,4 @@ The system uses JDBC for database operations, including CRUD (Create, Read, Upda
 
 Contributions are welcome! Please feel free to fork this repository, make changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+https://github.com/Baranidharan-b/employee-management-system.git
