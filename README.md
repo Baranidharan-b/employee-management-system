@@ -63,4 +63,11 @@ The system uses JDBC for database operations, including CRUD (Create, Read, Upda
 
 Contributions are welcome! Please feel free to fork this repository, make changes, and submit a pull request.
 
-https://github.com/Baranidharan-b/employee-management-system.git
+## Download
+ 
+ 
+ Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/Baranidharan-b/employee-management-system.git
+
